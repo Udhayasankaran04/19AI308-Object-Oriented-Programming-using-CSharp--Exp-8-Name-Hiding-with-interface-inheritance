@@ -42,8 +42,7 @@ class Program
 }
 ```
 # OUTPUT:
-
-![alt text](C#-08.png)
+![C#-08](https://github.com/Udhayasankaran04/19AI308-Object-Oriented-Programming-using-CSharp--Exp-8-Name-Hiding-with-interface-inheritance/assets/119393933/951deb7b-e7ce-449e-8cb4-1ac15ca2a475)
 
 # RESULT:
 Thus, the program has been executed successfully.
